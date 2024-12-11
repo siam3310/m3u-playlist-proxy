@@ -290,7 +290,7 @@ http.createServer(async (req, res) => {
         <div class="container" id="firewall-warning"></div>
     </div>
 
-    <div class="footer">Created by <a href="https://github.com/dtankdempse/m3u-playlist-proxy">Tank Dempse</a></div>
+    <div class="footer">Created by <a href="#">Tank Dempse</a></div>
 
     <div id="help-overlay">
         <div id="help-content">
